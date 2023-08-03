@@ -1,0 +1,72 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+/* START */
+.start-img {
+  width: 1440px;
+  height: 220px;
+}
+
+/* Annotation */
+.Annotation {
+  text-align: start;
+}
+.Annotation-h1 {
+  font-size: 34px;
+  color: black;
+  margin-left: 120px;
+  margin-top: 100px;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  font-weight: bold;
+  display: flex;
+  text-align: center;
+}
+.Annotation-p1 {
+  margin-left: 120px;
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30.38px;
+  display: flex;
+  align-items: center;
+
+  color: #000000;
+}
+.About-the-seriess {
+  display: table;
+  margin-left: 122px;
+  text-align: left;
+}
+.About-h1 {
+  font-weight: bold;
+  font-size: 34px;
+}
+.About-the-series {
+  display: table-cell;
+}
+.table {
+  font-size: 20px;
+  line-height: 50px;
+}
+.th {
+  padding-left: 150px;
+  color: rgba(0, 0, 0, 1);
+}
+.t {
+  color: rgba(102, 102, 102, 1);
+}
+.th-img {
+  float: right;
+}
+.About-img {
+  border-radius: 20px;
+}
+.History {
+  position: absolute;
+}
